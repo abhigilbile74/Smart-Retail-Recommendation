@@ -45,9 +45,7 @@ MANIFEST
 .streamlit/secrets.toml
 
 # Data
-*.csv
-*.xlsx
-*.xls
+!data/
 
 # Environment
 .env
